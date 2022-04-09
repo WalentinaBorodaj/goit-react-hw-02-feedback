@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WalentinaBorodaj/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/WalentinaBorodaj/goit-react-hw-02-feedback/static/js/main.21a24598.js",
+    "index.html": "/WalentinaBorodaj/goit-react-hw-02-feedback/index.html",
+    "main.7acaea2f.css.map": "/WalentinaBorodaj/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
+    "main.21a24598.js.map": "/WalentinaBorodaj/goit-react-hw-02-feedback/static/js/main.21a24598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.21a24598.js"
+  ]
+}
